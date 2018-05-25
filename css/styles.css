@@ -1,5 +1,5 @@
 body {
-  background-image: url("../imgs/bg.jpg");
+  background-image: url("../imgs/floral.jpg");
   color: #3D2B0C;
 }
 
@@ -9,11 +9,11 @@ body {
 }
 
 .panel-heading {
-  background-image: url("../imgs/leather.jpg");
+  background-image: url("../imgs/wood.jpg");
 }
 
 .panel-body {
-  background-image: url("../imgs/wood.jpg");
+  background-image: url("../imgs/couch.jpg");
 }
 
 a:link {
@@ -59,7 +59,7 @@ a:visited {
   border: 2px solid #0C3804;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   .stjohns {
     margin-left: 10px;
     width: 150px;
