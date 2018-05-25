@@ -9,6 +9,7 @@ test what we have learned so far with HTML, CSS, and Bootstrap.
 Set Up:
 Navigate to the GitHub repository at: https://github.com/thacheshirecat/portfolio
 Clone the repository, navigate to the Portfolio folder and open index.html
+https://thacheshirecat.github.io/portfolio/
 
 Copy Write:
 This code/project uses an MIT license
