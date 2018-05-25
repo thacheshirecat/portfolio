@@ -1,3 +1,12 @@
+body {
+  background-image: url("../imgs/bg.jpg");
+}
+
+.titlewell {
+  margin: 20px;
+  background-image: url("../imgs/wood.jpg");
+}
+
 .alexpic {
   float: right;
   width: 100px;
@@ -5,13 +14,13 @@
   border: 2px solid #72C563;
 }
 
-.titlewell {
-  margin: 20px;
-  background-color: #B476C5;
+.staytuned {
+  font-size: 75%;
+  font-style: italic;
 }
 
-body {
-  background-image: url("../imgs/bg.jpg");
+.stjohns {
+  width: 350px;
 }
 
 .inactive {
@@ -24,9 +33,4 @@ body {
   font-size: 75%;
   font-style: italic;
   color: green;
-}
-
-.staytuned {
-  font-size: 75%;
-  font-style: italic;
 }
