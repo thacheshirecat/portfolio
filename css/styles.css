@@ -6,9 +6,22 @@
 }
 
 .titlewell {
+  margin: 20px;
   background-color: #B476C5;
 }
 
 body {
   background-image: url("../imgs/bg.jpg");
+}
+
+.inactive {
+  font-size: 75%;
+  font-style: italic;
+  color: red;
+}
+
+.active {
+  font-size: 75%;
+  font-style: italic;
+  color: green;
 }
