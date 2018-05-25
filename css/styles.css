@@ -40,6 +40,19 @@ a:visited {
   border: 2px solid #0C3804;
 }
 
+.eae {
+  background-image: url("../imgs/leather.jpg");
+}
+
+.eae2 {
+  background-image: url("../imgs/leather.jpg");
+  padding-bottom: 44px;
+}
+
+.eaetitle {
+  background-image: url("../imgs/wood.jpg");
+}
+
 .stjohns {
   margin-left: 30px;
   width: 350px;
