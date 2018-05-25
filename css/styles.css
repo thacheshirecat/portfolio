@@ -1,5 +1,6 @@
 body {
   background-image: url("../imgs/bg.jpg");
+  color: #3D2B0C;
 }
 
 .titlewell {
@@ -7,6 +8,12 @@ body {
   background-image: url("../imgs/wood.jpg");
 }
 
+.ppheading {
+  background-image: url("../imgs/leather.jpg");
+}
+.projectpanel {
+  background-image: url("../imgs/wood.jpg");
+}
 .alexpic {
   float: right;
   width: 100px;
