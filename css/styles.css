@@ -1,6 +1,7 @@
 body {
   background-image: url("../imgs/floral.jpg");
   color: #3D2B0C;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .titlewell {
@@ -40,17 +41,24 @@ a:visited {
   border: 2px solid #0C3804;
 }
 
-.eae {
-  background-image: url("../imgs/leather.jpg");
+footer {
+  color: #3E2C0A;
 }
 
-.eae2 {
+.wellmod {
   background-image: url("../imgs/leather.jpg");
-  padding-bottom: 44px;
+  color: #3E2C0A;
 }
 
-.eaetitle {
+.wellmod2 {
+  background-image: url("../imgs/leather.jpg");
+  color: #3E2C0A;
+  padding-bottom: 24px;
+}
+
+.wellmodtitle {
   background-image: url("../imgs/wood.jpg");
+  color: #3D2B0C;
 }
 
 .stjohns {
@@ -70,10 +78,11 @@ a:visited {
 blockquote {
   font-size: 90%;
 }
+
 .inactive {
   font-size: 75%;
   font-style: italic;
-  color: red;
+  color: #891B1B;
 }
 
 .active {
