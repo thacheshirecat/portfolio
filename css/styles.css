@@ -2,4 +2,13 @@
   float: right;
   width: 100px;
   margin-right: 20px;
+  border: 2px solid #72C563;
+}
+
+.titlewell {
+  background-color: #B476C5;
+}
+
+body {
+  background-image: url("../imgs/bg.jpg");
 }
