@@ -8,17 +8,24 @@ body {
   background-image: url("../imgs/wood.jpg");
 }
 
-.ppheading {
+.panel-heading {
   background-image: url("../imgs/leather.jpg");
 }
-.projectpanel {
+
+.panel-body {
   background-image: url("../imgs/wood.jpg");
 }
-.alexpic {
-  float: right;
-  width: 100px;
-  margin-right: 20px;
-  border: 2px solid #72C563;
+
+a:link {
+  color: #348425;
+}
+
+a:hover {
+  color: #E0FCDA;
+}
+
+a:visited {
+  color: #0C3804;
 }
 
 .staytuned {
@@ -26,10 +33,22 @@ body {
   font-style: italic;
 }
 
-.stjohns {
-  width: 350px;
+.alexpic {
+  float: left;
+  width: 100px;
+  margin-right: 20px;
+  border: 2px solid #0C3804;
 }
 
+.stjohns {
+  margin-left: 30px;
+  width: 350px;
+  border: 2px solid #0C3804;
+}
+
+blockquote {
+  font-size: 90%;
+}
 .inactive {
   font-size: 75%;
   font-style: italic;
